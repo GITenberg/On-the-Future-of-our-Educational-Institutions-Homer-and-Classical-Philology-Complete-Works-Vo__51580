@@ -6,6 +6,9 @@ contributor:
     alias: Kennedy, John McFarland
     gutenberg_agent_id: '7863'
     url: http://www.gutenberg.org/2009/agents/7863
+covers:
+- cover_type: archival
+  image_path: 51580-h/images/cover.jpg
 creator:
   author:
     agent_name: Nietzsche, Friedrich Wilhelm
@@ -25,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7862
     wikipedia: http://en.wikipedia.org/wiki/Oscar_Levy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51580#On-the-Future-of-our-Educational-Institutions-Homer-and-Classical-Philology-Complete-Works-Vo_
 gutenberg_issued: '2016-03-28'
 gutenberg_type: Text
 identifiers:
